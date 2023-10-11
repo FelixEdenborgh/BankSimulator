@@ -1,0 +1,14 @@
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\bin\Debug\net6.0\BankSimulator.exe
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\bin\Debug\net6.0\BankSimulator.deps.json
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\bin\Debug\net6.0\BankSimulator.runtimeconfig.json
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\bin\Debug\net6.0\BankSimulator.dll
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\bin\Debug\net6.0\BankSimulator.pdb
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\obj\Debug\net6.0\BankSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\obj\Debug\net6.0\BankSimulator.AssemblyInfoInputs.cache
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\obj\Debug\net6.0\BankSimulator.AssemblyInfo.cs
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\obj\Debug\net6.0\BankSimulator.csproj.CoreCompileInputs.cache
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\obj\Debug\net6.0\BankSimulator.dll
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\obj\Debug\net6.0\refint\BankSimulator.dll
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\obj\Debug\net6.0\BankSimulator.pdb
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\obj\Debug\net6.0\BankSimulator.genruntimeconfig.cache
+C:\Users\FelixEdenborgh\source\repos\CSharp\BankSimulator\BankSimulator\obj\Debug\net6.0\ref\BankSimulator.dll
